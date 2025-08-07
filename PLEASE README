@@ -1,0 +1,19 @@
+What the Trojan Does
+
+Deletes critical system registry entries, which break the operating system and prevent it from booting.
+
+Creates a fullscreen window that rapidly changes colors, causing visual disruption.
+
+Plays horror music automatically by opening a YouTube video and simulating a keypress to start playback.
+
+Runs in a separate thread, allowing the disruptive effects to continue smoothly.
+
+⚠️ Impact
+This trojan is designed to:
+
+Sabotage the system
+
+Overwhelm the user visually and audibly
+
+Be difficult to stop once launched
+                                                  THE CREATOR IS NOT RESPONSABLE FOR ANY DAMAGES ! NEVER EXECUTE IT ON A REAL PC !!
